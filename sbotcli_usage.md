@@ -1,5 +1,7 @@
 # Sbot Usage
-
+* Guide
+  - [Protocol Guide](https://ssbc.github.io/scuttlebutt-protocol-guide/)
+  - [Sbot Guide](https://www.scuttlebutt.nz/guides/cli-first-steps.html)
 
 ## Whoami 
 
